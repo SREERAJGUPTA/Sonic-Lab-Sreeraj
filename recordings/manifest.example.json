@@ -1,0 +1,12 @@
+[
+  {
+    "id": "your-recording",
+    "title": "Replace with the recording title",
+    "file": "your-recording.mp3",
+    "instrument": "Replace with the instrument",
+    "nominalFundamentalHz": 440,
+    "sourceUrl": "https://example.invalid/replace-with-the-original-recording-source",
+    "license": "Replace with the actual licence and version",
+    "credit": "Replace with the required creator credit"
+  }
+]
